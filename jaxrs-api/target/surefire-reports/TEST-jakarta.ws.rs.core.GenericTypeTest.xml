@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="jakarta.ws.rs.core.GenericTypeTest" time="0.02" tests="9" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="jakarta.ws.rs.core.GenericTypeTest" time="0.021" tests="9" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -11,7 +11,7 @@
     <property name="java.vm.specification.version" value="17"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/temurin-17-jdk-amd64/lib"/>
-    <property name="sun.java.command" value="org.apache.maven.surefire.booter.ForkedBooter /home/runner/work/jakartaee-rest/jakartaee-rest/jaxrs-api/target/surefire 2023-11-20T13-49-44_464-jvmRun1 surefire-20231120134945039_1tmp surefire_0-20231120134945039_2tmp"/>
+    <property name="sun.java.command" value="org.apache.maven.surefire.booter.ForkedBooter /home/runner/work/jakartaee-rest/jakartaee-rest/jaxrs-api/target/surefire 2023-11-20T14-20-56_649-jvmRun1 surefire-20231120142057393_1tmp surefire_0-20231120142057393_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/home/runner/work/jakartaee-rest/jakartaee-rest/jaxrs-api/target/test-classes:/home/runner/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.0-M1/junit-jupiter-api-5.8.0-M1.jar:/home/runner/.m2/repository/org/apiguardian/apiguardian-api/1.1.1/apiguardian-api-1.1.1.jar:/home/runner/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/runner/.m2/repository/org/junit/platform/junit-platform-commons/1.8.0-M1/junit-platform-commons-1.8.0-M1.jar:/home/runner/.m2/repository/org/hamcrest/hamcrest/2.2/hamcrest-2.2.jar:/home/runner/.m2/repository/org/mockito/mockito-core/3.11.1/mockito-core-3.11.1.jar:/home/runner/.m2/repository/net/bytebuddy/byte-buddy/1.11.2/byte-buddy-1.11.2.jar:/home/runner/.m2/repository/net/bytebuddy/byte-buddy-agent/1.11.2/byte-buddy-agent-1.11.2.jar:/home/runner/.m2/repository/org/objenesis/objenesis/3.2/objenesis-3.2.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -52,13 +52,13 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="testParameterizedSubclass1" classname="jakarta.ws.rs.core.GenericTypeTest" time="0.004"/>
+  <testcase name="testParameterizedSubclass1" classname="jakarta.ws.rs.core.GenericTypeTest" time="0.003"/>
   <testcase name="testParameterizedSubclass2" classname="jakarta.ws.rs.core.GenericTypeTest" time="0.001"/>
-  <testcase name="testInvalidGenericType" classname="jakarta.ws.rs.core.GenericTypeTest" time="0.006"/>
-  <testcase name="testGenericTypeOfNonGenericArray" classname="jakarta.ws.rs.core.GenericTypeTest" time="0"/>
+  <testcase name="testInvalidGenericType" classname="jakarta.ws.rs.core.GenericTypeTest" time="0.005"/>
+  <testcase name="testGenericTypeOfNonGenericArray" classname="jakarta.ws.rs.core.GenericTypeTest" time="0.001"/>
   <testcase name="testConstructor2" classname="jakarta.ws.rs.core.GenericTypeTest" time="0"/>
   <testcase name="testAnonymousConstruction" classname="jakarta.ws.rs.core.GenericTypeTest" time="0"/>
   <testcase name="testNullGenericType" classname="jakarta.ws.rs.core.GenericTypeTest" time="0"/>
-  <testcase name="testGenericTypeOfArray" classname="jakarta.ws.rs.core.GenericTypeTest" time="0.001"/>
+  <testcase name="testGenericTypeOfArray" classname="jakarta.ws.rs.core.GenericTypeTest" time="0"/>
   <testcase name="testConstructor" classname="jakarta.ws.rs.core.GenericTypeTest" time="0.001"/>
 </testsuite>
