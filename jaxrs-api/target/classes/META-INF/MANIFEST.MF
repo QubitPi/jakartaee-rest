@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1700487848537
-Build-Id: 11/20/2023 01:43 PM
+Bnd-LastModified: 1700487893292
+Build-Id: 11/20/2023 01:44 PM
 Build-Jdk: 17.0.9
 Built-By: runner
 Bundle-Description: Jakarta RESTful Web Services API (JAX-RS)
