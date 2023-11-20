@@ -1,0 +1,4 @@
+--patch-module
+jakarta.ws.rs=_
+--add-reads
+jakarta.ws.rs=ALL-UNNAMED

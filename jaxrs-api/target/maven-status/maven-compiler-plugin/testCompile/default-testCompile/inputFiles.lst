@@ -1,0 +1,17 @@
+/home/runner/work/jakartaee-rest/jakartaee-rest/jaxrs-api/src/test/java/jakarta/ws/rs/SerializationTest.java
+/home/runner/work/jakartaee-rest/jakartaee-rest/jaxrs-api/src/test/java/jakarta/ws/rs/core/EntityTagTest.java
+/home/runner/work/jakartaee-rest/jakartaee-rest/jaxrs-api/src/test/java/jakarta/ws/rs/core/BaseDelegateTest.java
+/home/runner/work/jakartaee-rest/jakartaee-rest/jaxrs-api/src/test/java/jakarta/ws/rs/ext/RuntimeDelegateTest.java
+/home/runner/work/jakartaee-rest/jakartaee-rest/jaxrs-api/src/test/java/jakarta/ws/rs/core/NewCookieBuilderTest.java
+/home/runner/work/jakartaee-rest/jakartaee-rest/jaxrs-api/src/test/java/jakarta/ws/rs/core/MediaTypeTest.java
+/home/runner/work/jakartaee-rest/jakartaee-rest/jaxrs-api/src/test/java/jakarta/ws/rs/core/GenericTypeTest.java
+/home/runner/work/jakartaee-rest/jakartaee-rest/jaxrs-api/src/test/java/jakarta/ws/rs/core/NewCookieTest.java
+/home/runner/work/jakartaee-rest/jakartaee-rest/jaxrs-api/src/test/java/jakarta/ws/rs/core/VariantTest.java
+/home/runner/work/jakartaee-rest/jakartaee-rest/jaxrs-api/src/test/java/jakarta/ws/rs/core/CookieTest.java
+/home/runner/work/jakartaee-rest/jakartaee-rest/jaxrs-api/src/test/java/jakarta/ws/rs/core/MultivaluedHashMapTest.java
+/home/runner/work/jakartaee-rest/jakartaee-rest/jaxrs-api/src/test/java/jakarta/ws/rs/core/JaxbLinkTest.java
+/home/runner/work/jakartaee-rest/jakartaee-rest/jaxrs-api/src/test/java/jakarta/ws/rs/core/AbstractMultivaluedMapTest.java
+/home/runner/work/jakartaee-rest/jakartaee-rest/jaxrs-api/src/test/java/jakarta/ws/rs/core/GenericEntityTest.java
+/home/runner/work/jakartaee-rest/jakartaee-rest/jaxrs-api/src/test/java/jakarta/ws/rs/SeBootstrapTest.java
+/home/runner/work/jakartaee-rest/jakartaee-rest/jaxrs-api/src/test/java/jakarta/ws/rs/core/RxClientTest.java
+/home/runner/work/jakartaee-rest/jakartaee-rest/jaxrs-api/src/test/java/jakarta/ws/rs/core/CacheControlTest.java
