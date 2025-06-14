@@ -7,8 +7,7 @@ latestVersion: 3.1.0
 
 links:
   source: https://github.com/QubitPi/jakartaee-rest
-  javadocs: https://qubitpi.github.io/jakartaee-rest/apidocs
-  docs: https://qubitpi.github.io/jakartaee-rest/jaxrs-spec/target/generated-docs/spec.html
-  docs: https://jakarta.ee/specifications/restful-ws/3.0/jakarta-restful-ws-spec-3.0.html
+  javadocs: https://jakartaee-rest.qubitpi.org/apidocs
+  docs: https://jakartaee-rest.qubitpi.org/jaxrs-spec.html
   download: https://github.com/jakartaee/rest/releases
   mailinglist: https://accounts.eclipse.org/mailing-list/jaxrs-dev
